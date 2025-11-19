@@ -1,0 +1,13 @@
+{
+  "name": "backend",
+  "version": "0.0.1",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^5.1.0",
+    "mongoose": "^8.20.0",
+    "shortid": "^2.2.17"
+  }
+}
